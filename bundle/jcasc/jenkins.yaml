@@ -19,3 +19,6 @@ jenkins:
         value: "${CASC_BUNDLE_ID}"
   quietPeriod: 0
   systemMessage: 'Jenkins configured using CloudBees CI CasC v1'
+unclassified:
+  headerLabel:
+    text: "${GITHUB_REPO} - 1"
