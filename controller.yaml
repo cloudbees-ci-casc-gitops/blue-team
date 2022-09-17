@@ -3,7 +3,7 @@ removeStrategy:
   items: NONE
 items:
 - kind: folder
-  name: cbci-previews-demo
+  name: REPLACE_REPO
   groups:
   - members:
       users:
